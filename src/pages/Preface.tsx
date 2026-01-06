@@ -60,6 +60,12 @@ const Preface: React.FC = () => {
         >
           Start Training / 开始训练
         </motion.button>
+        
+        <div className="text-center mt-8 pb-4">
+            <p className="text-xs text-white/30 font-light tracking-wide">
+                来自2024年智能手机用户行为习惯基础数据
+            </p>
+        </div>
       </motion.div>
     </div>
   );
